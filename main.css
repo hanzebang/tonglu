@@ -1,0 +1,9 @@
+/*html标记的样式*/
+
+body {
+	width: 95%;
+	max-width: 760px;
+	margin: 5px auto;
+	background: url(assets/bg.gif);
+	font-size: 14px;
+}
