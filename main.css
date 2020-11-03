@@ -7,3 +7,11 @@ body {
 	background: url(assets/bg.gif);
 	font-size: 14px;
 }
+
+p {
+	text-align:left;
+	text-indent:24.1pt;
+	font-size:12.0pt;
+	font-family:楷体;
+	color:#0070C0;
+}
