@@ -9,9 +9,21 @@ body {
 }
 
 p {
-	text-align:left;
-	text-indent:24.1pt;
-	font-size:12.0pt;
-	font-family:楷体;
-	color:#0070C0;
+	/* 首行缩进 */
+	text-indent: 24.1pt;
+	/* 粗体 */
+	font-weight: bold;
+	/* 楷体、12pt、蓝色 */
+	font-size: 12.0pt;
+	font-family: 楷体;
+	color: #0070C0;
+}
+
+.p-r {
+	text-align: right;
+}
+
+.p-c {
+	text-align: center;
+	text-indent: unset;
 }
