@@ -1,0 +1,34 @@
+body {
+  width: 95%;
+  max-width: 760px;
+  margin: 5px auto;
+  background: url(bg.gif);
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  /* 首行缩进 */
+  text-indent: 24.1pt;
+  /* 粗体 */
+  font-weight: bold;
+  /* 楷体、12pt、蓝色 */
+  font-size: 12.0pt;
+  font-family: 楷体;
+  color: #0070C0;
+}
+
+.p-r {
+  text-align: right;
+}
+
+.p-c {
+  text-align: center;
+  text-indent: unset;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
